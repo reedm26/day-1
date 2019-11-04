@@ -1,0 +1,13 @@
+.text-red {
+  
+  color: red;
+  background-color: blue;
+  border-inline: 0;
+
+}
+h1.text-red {
+  color: red;
+  display: block;
+  font-size: 15em;
+  border-inline: 0;
+}
