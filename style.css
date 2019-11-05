@@ -1,13 +1,24 @@
-.text-red {
-  
-  color: red;
-  background-color: blue;
+.text-purple {
+  color: purple;
+  background-color: black;
   border-inline: 0;
 
 }
-h1.text-red {
-  color: green;
+h1.text-purple {
+  color: purple;
   display: block;
   font-size: 15em;
   border-inline: 0;
 } 
+.purple {
+  color: purple;
+}
+
+h2.purple {
+  color: purple;
+display: block;
+font-size: 9em;
+}
+.font {
+  font-size: 5em;
+}
